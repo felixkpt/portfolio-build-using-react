@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf28ad46.css",
+    "main.js": "/static/js/main.4cf3e585.js",
+    "static/media/felix-no-bg.png": "/static/media/felix-no-bg.d299b16ae4b36b945bec.png",
+    "static/media/react.png": "/static/media/react.f6b89d232c9bc9f828e5.png",
+    "static/media/tailwind.png": "/static/media/tailwind.36b2728bf0d14b7b7576.png",
+    "static/media/laravel.png": "/static/media/laravel.8b2939ca7ad8851c40a2.png",
+    "static/media/firebase.png": "/static/media/firebase.236ae3e4ef05a2984f5d.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "index.html": "/index.html",
+    "static/media/gray.svg": "/static/media/gray.d1731de6bcc827e39103a71fa8fb601f.svg",
+    "static/media/green.svg": "/static/media/green.f995b5741d3d5573a4ed246cbc5fffaf.svg",
+    "main.bf28ad46.css.map": "/static/css/main.bf28ad46.css.map",
+    "main.4cf3e585.js.map": "/static/js/main.4cf3e585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf28ad46.css",
+    "static/js/main.4cf3e585.js"
+  ]
+}
